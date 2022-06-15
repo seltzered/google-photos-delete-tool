@@ -10,7 +10,9 @@ Follow the step-by-step instructions below to run the tool.
 - Use the [english language version of Google Photos](https://photos.google.com/?hl=en).
 
 ## Assumptions
-The manual steps assume that these steps are performed on the Google Chrome Browser. If you're using a different browser, the steps still remain the same, however, the keyboard shortcuts or browser specific keywords may not be same for you, as described below.
+The manual steps assume that these steps are performed on the Google Chrome Browser. If you're using a different browser, the steps still remain the same, however, the keyboard shortcuts or browser specific keywords may not be same for you, as described below. 
+
+This guide assumes you've already taken appropriate steps to backup or move your photos if desired, using tools such as [Google Takeout](https://takeout.google.com). 
 
 ## Steps
 1) [Login into your Google Account](https://accounts.google.com/ServiceLogin).
